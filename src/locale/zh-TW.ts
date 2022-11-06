@@ -22,6 +22,7 @@ const ZH_TW: StaticTextDefaultValue = {
     quote: '引用',
     unorderedList: '無序列錶',
     orderedList: '有序列錶',
+    task: '任務列錶',
     codeRow: '行內代碼',
     code: '塊級代碼',
     link: '鏈接',
@@ -58,7 +59,7 @@ const ZH_TW: StaticTextDefaultValue = {
     descLable: '鏈接描述：',
     descLablePlaceHolder: '請輸入描述...',
     urlLable: '鏈接地址：',
-    UrlLablePlaceHolder: '請輸入链接...',
+    urlLablePlaceHolder: '請輸入链接...',
     buttonOK: '確定',
   },
   clipModalTips: {

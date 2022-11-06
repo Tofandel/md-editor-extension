@@ -10,6 +10,7 @@ export interface StaticTextDefaultValue {
     quote?: string;
     unorderedList?: string;
     orderedList?: string;
+    task?: string;
     codeRow?: string;
     code?: string;
     link?: string;
@@ -48,7 +49,7 @@ export interface StaticTextDefaultValue {
     descLable?: string;
     descLablePlaceHolder?: string;
     urlLable?: string;
-    UrlLablePlaceHolder?: string;
+    urlLablePlaceHolder?: string;
     buttonOK?: string;
   };
   clipModalTips?: {
